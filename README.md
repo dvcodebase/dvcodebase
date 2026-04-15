@@ -18,10 +18,12 @@
 - Improved training efficiency by tuning batch size, token limits, and GPU utilization, reducing training time and memory overhead.
 - https://github.com/dvcodebase/TextSummarization
   
+<!--
 ### 2️⃣ Neural Style Transfer
 - high-performance style transfer pipeline leveraging TensorFlow and VGG19-based perceptual loss
 - achieving ~100ms inference per frame with GPU optimization
 - Link : https://github.com/dvcodebase/Neural_Style_Transfer
+  -->
 
 ### 📊 Impact
 🚀 Improved model accuracy from ~80% → 82%+
